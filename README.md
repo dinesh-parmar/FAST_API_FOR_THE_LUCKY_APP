@@ -1,5 +1,10 @@
-<<<<<<< HEAD
-# Lottery-app
-=======
-# FAST_API_FOR_THE_LUCKY_APP
->>>>>>> d7d0b0579bf5672b0bc58ecaa1ff83428a8b4891
+
+# FASTAPI SERVER FOR LUCKY APP
+
+The FASTAPI server to perform CRUD operations by Admin panel on User database on MongoDB for the Lucky App I made for my client.
+
+This Python Scripts is also for editing the 2D array on the MongoDB database and getting details for some particular time 2D data.
+
+I hosted this script on Digital Ocean.
+
+
